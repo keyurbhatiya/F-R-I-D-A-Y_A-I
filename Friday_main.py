@@ -5164,6 +5164,16 @@ intents = [
             "Lets talk about something" ,
             "You suggest something"
         ]
+    },
+    {
+        "tag" : "A581" ,
+        "patterns" : [
+            "hello tony"
+        ] ,
+        "responses" : [
+            "hello sir " ,
+            "hello Boss"
+        ]
     }
 ]
 
