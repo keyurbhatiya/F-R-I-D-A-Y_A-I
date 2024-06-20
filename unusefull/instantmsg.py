@@ -1,0 +1,1 @@
+import pywhatkit as kitphone_number = "+919773069326"message = "hello I'm Friday For Keyur's PC"kit.sendwhatmsg(phone_number,message,21,11)

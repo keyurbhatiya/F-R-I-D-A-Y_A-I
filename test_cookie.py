@@ -1,0 +1,1 @@
+import pyautoguiimport keyboardimport pyperclipfrom time import sleepsleep(8)print(pyautogui.position())# x=1742, y=79# x=1542, y=320# x=1462, y=120#img cookie# cookieStore.get("_U").then(result => console.log(result.value))
