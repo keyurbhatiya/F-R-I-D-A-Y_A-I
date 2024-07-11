@@ -185,7 +185,7 @@ intents = [
     {
         "tag" : "A21" ,
         "patterns" : ["who created you"] ,
-        "responses" : ["I was created by a team of developers at OpenAI."]
+        "responses" : ["I was created by a team of developers at keyur."]
     } ,
     {
         "tag" : "A22" ,
@@ -300,7 +300,7 @@ intents = [
     {
         "tag" : "A42" ,
         "patterns" : ["who is your creator"] ,
-        "responses" : ["I was created by OpenAI, an artificial intelligence research laboratory."]
+        "responses" : ["I was created by keyur, an artificial intelligence research laboratory."]
     } ,
     {
         "tag" : "A43" ,
