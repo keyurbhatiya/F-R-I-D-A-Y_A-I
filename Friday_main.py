@@ -185,7 +185,7 @@ intents = [
     {
         "tag" : "A21" ,
         "patterns" : ["who created you"] ,
-        "responses" : ["I was created by a team of developers at keyur."]
+        "responses" : ["I was created by Keyur Bhatiya."]
     } ,
     {
         "tag" : "A22" ,
